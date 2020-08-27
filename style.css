@@ -1,0 +1,72 @@
+h1 {
+	margin:5px;
+	font-size: 45px;
+	font-family: Courier;
+}
+
+h2 {
+	font-family: Arial;
+	margin-bottom:6;	
+}
+h3 {
+	font-family: Arial;
+	margin-bottom:3;
+	margin-top:3;	
+	font-size:18px;
+}
+
+p {
+	font-family: Arial;
+	margin-top:0;
+	font-size:13px;
+	line-height:17px;
+}
+
+a {
+	font-weight: bold;
+	font-family:Courier;
+	font-size: 25px;
+}
+
+#normalSize{
+	font-size:14px;
+}
+
+#mediumSize{
+	font-size:16px;
+	margin-bottom:10px;
+	padding:3px;
+	line-height:40px;
+	font-weight: bold;
+}
+
+#date{
+	font-size:18;
+	font-family:Courier;
+	font-weight: bold;
+}
+
+#floatright {
+	margin-top:10px;
+	margin-bottom:10px;
+	float:right;
+	border:solid gainsboro 6px;
+	padding:5px;
+	margin-left:10px;
+}
+
+#me{
+	margin:5px;
+	margin-top:10px;
+	height:145px;
+	border-radius: 50%; /*For some reason, this stops the picture from changing quality in the middle */
+	margin-left:0px;
+	padding-left:0px;
+}
+
+#floatleft {
+	float:left;
+	shape-outside: circle(); /*This is so that text wraps around image like the image was a circle, border-radius=50% doesn't do anything for that */
+	margin-left:0px;
+	padding-left:0px;
+}
