@@ -3,11 +3,7 @@
 ## Introduction
 This will be my personal website that will present my professional projects and link to pages that I deem important. It will play the role of an online résumé.
 
-Go to 
-```
-mathusan.net
-``` 
-to see it.
+Go to [mathusan.net](mathusan.net) to see it.
 
 
 ## Components
